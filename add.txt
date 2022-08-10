@@ -1,2 +1,3 @@
-Adding two number 
+Adding the two number
 c= a+b
+perfect 
