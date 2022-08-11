@@ -1,3 +1,3 @@
 # calculator-
 creating a basic calculator 
-Perfiming some task 
+Performing some task 
